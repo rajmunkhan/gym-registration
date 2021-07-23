@@ -96,7 +96,7 @@
     padding: 50px;
 }
 .left, .right{
-    width: 730px;
+    width: 600px;
 }
 .right{
     position: relative;
@@ -214,7 +214,7 @@ footer h3{
 }
 .foot-div{
     margin: 20px;
-    width: 500px;
+    width: 310px;
 }
 footer p{
     color: rgb(139, 178, 250);
